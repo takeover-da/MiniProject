@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.demo.dto.CommentDTO;
-import com.example.demo.service.CommentService;
+import com.example.miniproject.dto.CommentDTO;
+import com.example.miniproject.service.CommentService;
 
 @RestController
 @RequestMapping("/comment")

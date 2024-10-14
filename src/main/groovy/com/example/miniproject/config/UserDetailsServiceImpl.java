@@ -6,9 +6,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.example.demo.dto.CustomUser;
-import com.example.demo.dto.MemberDTO;
-import com.example.demo.service.MemberService;
+import com.example.miniproject.dto.CustomUser;
+import com.example.miniproject.dto.MemberDTO;
+import com.example.miniproject.service.MemberService;
 
 // 커스텀 인증 클래스 생성
 // 로그인 처리 서비스

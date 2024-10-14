@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.example.demo.dto.BoardDTO;
-import com.example.demo.service.BoardService;
+import com.example.miniproject.dto.BoardDTO;
+import com.example.miniproject.service.BoardService;
 
 @Controller
 @RequestMapping("/board")
